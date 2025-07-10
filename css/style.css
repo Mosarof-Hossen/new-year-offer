@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* nedded-css */
+.all-container{
+    width: 1320px;
+    margin: auto;
+}
+.text{
+    color: #ff0000;
+}
+.section-a{
+    margin: 100px 0;
+}
+/* nedded-end */
+
+.nav{
+    background-image: ;
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.959),rgba(0, 0, 0, 0)),url('../image/bnner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+    border-radius: 10px;
+    margin: 50px;
+    
+    
+
+}
+.content{
+    width: 632px;
+    margin: auto;
+    text-align: center;
+}
+
+/* nav */
+.nav-title{
+    font-size: 32px;
+    line-height: 45px;
+    font-family: "merriweather",serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+.nav-title-2{
+
+    font-size: 72px;
+    line-height: 95px;
+    font-family: "merriweather",serif;
+    font-weight: 800;
+    color: #ffffff;
+    margin-top: 15px;
+}
+/* nav-end */
+/* banner */
+.banner{
+    width: 803px;
+    margin: auto;
+    text-align: center;
+}
+.banner-title{
+    font-size: 88px;
+    font-family: "Inter",sans-serif;
+    font-weight: 800;
+    margin: 30px 0;
+}
+.image-title{
+    font-size: 24px;
+    font-family: "Inter",sans-serif;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.image-title-2{
+    font-size: 48px;
+    font-family: "Inter",sans-serif;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+/* .merriweather-<uniquifier> {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+} */
+
+
+/* .inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */

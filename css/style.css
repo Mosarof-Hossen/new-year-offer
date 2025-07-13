@@ -277,6 +277,7 @@
     flex-wrap: wrap;
    gap: 10px;
    margin-top: 60px;
+   
     
 }
 .image-bag{
@@ -284,9 +285,46 @@
     flex: 1;
     transition: ease-in-out;
 }
+.image-bag img{
+    border: 3px solid #dddd;
+    border-radius: 20px;
+}
 .image-bag img:hover{
     box-shadow: 0 0 10px 10px #000000;
     border-radius: 20px;
+}
+/* section */
+.bg-setion{
+    background-color: #fff2f2;
+    padding: 70px 0;
+    border-radius: 20px;
+    text-align: center;
+}
+.cont{
+    width: 896px;
+    margin: auto;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "inter" sans-serif;
+    font-weight: 500;
+    color: #00000075;
+    margin-bottom: 20px;
+}
+.forme{
+    border-radius: 50px 0 0 50px;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 25px;
+   
+}
+.forme-btn{
+    font-size: 18px;
+    line-height: 25px;
+    background-color: #ff0000;
+    color: white;
+    padding: 15px 30px;
+    margin-left: -10px;
+    border-radius: 0 50px 50px 0;
 }
 
 

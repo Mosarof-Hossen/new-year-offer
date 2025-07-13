@@ -254,6 +254,40 @@
     align-items: center;
     padding: 80px 0;
 }
+/* bag-section */
+.bag-title{
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    margin: 10px 0;
+}
+.bag-paragraph{
+    width: 896px;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    margin-top: 10px;
+    color: #00000088;
+}
+.bag-image{
+   
+}
+.bag-image{
+    display: flex;
+    flex-wrap: wrap;
+   gap: 10px;
+   margin-top: 60px;
+    
+}
+.image-bag{
+    width: 33%;
+    flex: 1;
+    transition: ease-in-out;
+}
+.image-bag img:hover{
+    box-shadow: 0 0 10px 10px #000000;
+    border-radius: 20px;
+}
 
 
 
